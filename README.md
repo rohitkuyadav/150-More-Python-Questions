@@ -1,5 +1,3 @@
-Title: 150+ Python Questions Repository
-
 Welcome to the ultimate resource for Python enthusiasts and learners! This GitHub repository is a curated collection of 150+ thoughtfully crafted Python questions designed to challenge and expand your Python programming skills. Whether you're a beginner looking to solidify your foundational knowledge or an experienced developer aiming to sharpen your expertise, this repository has something for everyone.
 
 Key Features:
